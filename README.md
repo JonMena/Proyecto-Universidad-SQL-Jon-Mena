@@ -8,7 +8,7 @@ Base de datos que gestiona estudiantes, cursos, profesores y calificaciones.
 | esquema.sql | Creación de las tablas y sus claves foráneas |
 | datos_ejemplo.sql | Datos de ejemplo para las cuatro tablas |
 | consultas.sql | Las cinco consultas exigidas por el enunciado |
-| LEEME.md | Este documento |
+| README.md | Este documento |
 
 ## Cómo ejecutarlo
 1. Abrir MySQL Workbench y conectar con el servidor.
