@@ -5,7 +5,7 @@ Base de datos que gestiona estudiantes, cursos, profesores y calificaciones.
 ## Archivos del proyecto
 | Archivo | Contenido |
 |---|---|
-| esquema.sql | Creación de las tablas y sus claves foráneas |
+| esquema.sql | Creación de las tablas y sus foreign keys |
 | datos_ejemplo.sql | Datos de ejemplo para las cuatro tablas |
 | consultas.sql | Las cinco consultas exigidas por el enunciado |
 | README.md | Este documento |
