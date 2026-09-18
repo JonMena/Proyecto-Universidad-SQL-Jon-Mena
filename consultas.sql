@@ -1,3 +1,4 @@
+-- Consulta 1: la nota media dada por cada profesor
 SELECT p.id_profesor,
        p.nombre_profesor,
        p.apellido_profesor,
